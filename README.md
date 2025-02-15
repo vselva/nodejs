@@ -21,12 +21,15 @@ To get started with this project:
 ### 1. Clone this repository to your local machine:
 ```sh
 git clone git@github.com:vselva/nodejs.git
-
+```
 2. Navigate into the project directory:
+```sh
 cd nodejs
+```
 
 ### 3. Run any example file using the following command:
+```sh
 node <file-name>.js
-
+```
 
 
