@@ -5,6 +5,6 @@ const circle = require('./modules/circle');
 const radius = 5;
 
 // Display the results
-console.log(`🟢 Value of PI: ${circle.PI}`);
-console.log(`🟢 Area of a circle with radius ${radius}: ${circle.calculateArea(radius)}`);
-console.log(`🟢 Circumference of a circle with radius ${radius}: ${circle.calculateCircumference(radius)}`);
+console.log(`Value of PI: ${circle.PI}`);
+console.log(`Area of a circle with radius ${radius}: ${circle.calculateArea(radius)}`);
+console.log(`Circumference of a circle with radius ${radius}: ${circle.calculateCircumference(radius)}`);
